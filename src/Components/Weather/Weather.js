@@ -92,7 +92,7 @@ function Weather() {
            <div className="col">
             <img src={wind} alt="" />
             <div>
-              <p>{Weather.windspeed}km/h</p>
+              <p>{Weather.windSpeed}km/h</p>
               <span>Wind speed</span>
             </div>
           </div>
